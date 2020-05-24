@@ -3,8 +3,6 @@ layout: post
 title:  팀 프로젝트 진행사항
 date:   2020-05-24
 ---
-팀 프로젝트 진행사항
-
 선정된 프로젝트는 Microsoft의 Python Getting Started (https://github.com/microsoft/c9-python-getting-started)입니다. Python을 빠르게 공부할 수 있도록 도와주는 프로젝트로, 다른 언어를 공부한 적이 있는 사용자가 Python을 학습하거나, Data Science를 위해 새로 프로그래밍 언어를 공부하려는 초보 개발자에게 예제 코드와 주석 설명을 통해서 필요한 기초를 알려줍니다. 기본적으로는 사용자가 다른 언어를 공부한 적이 있고, 프로그래밍의 개념 및 컨셉에 대해서 어느 정도 이해하고 있음을 전제로 합니다. 
 
 Project의 contents는 Python을 처음 접하는 사용자를 위한 pythons-for-beginners, 조금 더 심화된 학습을 위한 more-python-for-beginners, Python을 통한 Data Science 학습을 위한 even-more-python-for-beginners-data-tools로 구성되어 있습니다. 
