@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  프로젝트 기여  
+title:  프로젝트 기여 방안 
 date:   2020-05-24
 ---
 Project 내 개인별 기여 방안은 다음과 같습니다.
