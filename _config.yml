@@ -17,8 +17,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 이종윤
+  tagline: Student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -26,9 +26,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  jesusleejy
     rss: rss
  
 
