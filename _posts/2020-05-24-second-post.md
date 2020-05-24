@@ -34,9 +34,9 @@ Project 내 개인별 기여 방안은 다음과 같습니다.
 - 전체적인 내용에 대해, 직접 코드를 실행하고 확인하면서 문제 발생 가능성에 대한 검토
 
 이종윤:  
--python-for-beginners에서 추가할 만한 python 기초 설명 코드 추가  
--python-for-beginners의 기존 contents들을 보다 이해하기 쉽게 코드와 주석 정리하기  
--python-for-beginners의 Slides 폴더 내 ppt 오류 수정 및 한글 번역
+- python-for-beginners에서 추가할 만한 python 기초 설명 코드 추가  
+- python-for-beginners의 기존 contents들을 보다 이해하기 쉽게 코드와 주석 정리하기  
+- python-for-beginners의 Slides 폴더 내 ppt 오류 수정 및 한글 번역
 
 저의 개인별 기여 방안을 보충해보자면, 우선 python-for-beginners는 Python의 기본적인 내용들을 예제 코드와 주석을 통해서 어느 정도 잘 설명해주고 있지만, 몇몇 추가해볼 만한 contents들이 있습니다.(모듈, 외장 함수, 정규 표현식 등)
 그래서 저는 이러한 Contents들을 주석을 통해서 설명하고 code로 예시를 든 py파일을 제작하는 활동을 하려고 합니다.  
